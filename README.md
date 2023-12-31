@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/RPDJF/42-Repos/main/cursus/ft_printf_score.png)
 ![](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png?raw=true)
 
 ![](https://img.shields.io/github/languages/code-size/rpdjf/42-ft_printf?color=5BCFFF)
